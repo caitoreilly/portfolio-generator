@@ -37,7 +37,6 @@ Add a New Project
 =================
 `);
 
-  portfolioData.projects = [];
   // If there's no 'projects' array property, create one
   if (!portfolioData.projects) {
     portfolioData.projects = [];
